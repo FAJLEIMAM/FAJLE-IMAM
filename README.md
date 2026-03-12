@@ -28,6 +28,15 @@ Phishing detection system designed to identify suspicious URLs and protect users
 </p>
 
 ---
+## 📚 Currently Learning
+
+- Python for Security Tools
+- Network Scanning Techniques
+- Web Application Security system
+- Linux Basics
+- Penetration Testing Basics
+
+--- 
 
 ## 🔧 Security Tools (Learning)
 
